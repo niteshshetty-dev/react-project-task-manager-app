@@ -1,6 +1,6 @@
 Task Manager App
 
-This is a simple Task Manager built using React and Redux Toolkit. It allows users to add tasks, mark them as complete, and delete them. It uses React Router for navigation and Redux for state management. No localStorage is used in this version.
+This is a simple Task Manager built using React and Redux Toolkit. It allows users to add tasks, mark them as complete, and delete them. It uses React Router for navigation and Redux for state management.
 
 Features:
 
