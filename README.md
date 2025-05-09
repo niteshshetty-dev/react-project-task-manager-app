@@ -46,7 +46,7 @@ Add task page:
 
 <img width="952" alt="image" src="https://github.com/user-attachments/assets/48b8bb2e-0261-4454-a2a1-48308a273643" />
 
-Submit button with empty input trows warning:
+Submiting button with empty input throws warning:
 
 <img width="949" alt="image" src="https://github.com/user-attachments/assets/406396a2-505c-4b37-8688-85b23a0f6867" />
 
