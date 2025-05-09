@@ -31,3 +31,8 @@ Folder Structure:
 - App.js and index.js: Root files
 
 This app demonstrates basic CRUD functionality using React and Redux.
+
+Thumbnails:
+
+<img width="954" alt="image" src="https://github.com/user-attachments/assets/68c20b35-54dd-46e0-a87e-8c20efb890f6" />
+
